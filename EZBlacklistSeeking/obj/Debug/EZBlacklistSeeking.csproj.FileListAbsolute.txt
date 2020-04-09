@@ -1,0 +1,9 @@
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\bin\Debug\EZBlacklistSeeking.exe
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\bin\Debug\EZBlacklistSeeking.pdb
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.csprojAssemblyReference.cache
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.Properties.Resources.resources
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.csproj.GenerateResource.cache
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.csproj.CoreCompileInputs.cache
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.exe
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.pdb
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.mainForm.resources
