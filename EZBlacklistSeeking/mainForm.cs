@@ -82,5 +82,11 @@ namespace EZBlacklistSeeking
 		{
 			Process.Start("https://www.mcbbs.net/thread-803451-1-1.html");
 		}
+
+		private void btnAbout_Click(object sender, EventArgs e)
+		{
+			formAbout frmAbout = new formAbout();
+			frmAbout.Show();
+		}
 	}
 }

@@ -7,3 +7,4 @@ C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBl
 C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.exe
 C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.pdb
 C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.mainForm.resources
+C:\Users\SHZLP\source\repos\EZBlacklistSeeking\EZBlacklistSeeking\obj\Debug\EZBlacklistSeeking.formAbout.resources
